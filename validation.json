@@ -1,0 +1,41 @@
+{
+  "python": "3.12.14",
+  "platform": "Windows",
+  "unit_integration_tests": 39,
+  "unit_integration_result": "passed",
+  "ui": {
+    "visited": [
+      "Define",
+      "Data & setup",
+      "Research",
+      "Risk",
+      "Operate",
+      "Report"
+    ],
+    "errors": [],
+    "mobileWidth": 390,
+    "reportLinks": "passed",
+    "ownerValidation": "passed"
+  },
+  "clean_copy_reproduction": {
+    "demo-trend": {
+      "metrics_match": true,
+      "trial_statistics_match": true,
+      "development_validation_attempts": 7,
+      "heldout_evaluations": 1,
+      "daily_reports": 18,
+      "observed_forward_sessions": 0
+    },
+    "demo-reversal": {
+      "metrics_match": true,
+      "trial_statistics_match": true,
+      "development_validation_attempts": 7,
+      "heldout_evaluations": 1,
+      "daily_reports": 18,
+      "observed_forward_sessions": 0
+    }
+  },
+  "live_model_tested": false,
+  "live_etoro_tested": false,
+  "real_orders_sent": false
+}

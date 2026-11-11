@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "strategy-machine-local"
+version = "1.0.0"
+description = "Reusable strategy research and controlled shadow operation"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+strategy-machine = "machine.__main__:main"
+
+[tool.setuptools.packages.find]
+include = ["machine*"]
+
+[tool.setuptools.package-data]
+machine = ["web/*.html", "web/*.css", "web/*.js"]

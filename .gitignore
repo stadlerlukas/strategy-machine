@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.test-work/
+workspaces/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.sqlite
+*.sqlite-*
+*.db
+*.log
+build/
+dist/
+*.egg-info/

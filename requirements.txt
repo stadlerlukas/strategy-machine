@@ -1,0 +1,3 @@
+# No third-party Python runtime dependencies.
+# Source use: Python 3.12+. Tested: CPython 3.12.14 / Windows.
+# Packaging optionally uses setuptools. Normal use needs no installation.
