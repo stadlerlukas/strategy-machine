@@ -4,6 +4,12 @@ A local application that turns a written trading idea into explicit rules, repro
 
 ![Strategy Machine application](docs/application-preview.png)
 
+## Use and contribute
+
+Strategy Machine is shared under the [MIT License](LICENSE). You may download, use, modify and redistribute it, including commercially, provided you retain the copyright and licence notice. The software is provided without warranty.
+
+Download a ZIP using **Code → Download ZIP**, or clone/fork this repository to work on your own copy. To propose changes to this repository, open a pull request from your fork; public access does not grant direct write access to the original repository.
+
 ## Start here
 
 Install Python 3.12 or later, then download and extract this repository (or clone it). No third-party Python packages, brokerage account or API key are needed for the synthetic demonstrations.
